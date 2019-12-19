@@ -1,2 +1,2 @@
 # WorldUjjman
-![alt text](https://www.github.com/ujjman/WorldUjjman/master/images/new.PNG)
+![alt text](https://github.com/ujjman/WorldUjjman/blob/master/images/new.PNG)
